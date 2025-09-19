@@ -10,7 +10,7 @@ Developed a high-converting, luxury-themed landing page for **Jumeirah Residence
 - RankMath SEO
 - Google Tag Manager
 
-## 🌐 Live Demo
+## 🌐 Live Page
 https://jumeirah-residences-emirates-towers.dubai-offplans.ae/
 
 ## ✨ Features
